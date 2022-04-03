@@ -1,0 +1,14 @@
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.vbproj.AssemblyReference.cache
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.vbproj.ResolveComReference.cache
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.vbproj.GenerateResource.cache
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.vbproj.CoreCompileInputs.cache
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\bin\Debug\risman_aplikasi_mahasiswa.exe.config
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\bin\Debug\risman_aplikasi_mahasiswa.exe
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\bin\Debug\risman_aplikasi_mahasiswa.pdb
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\bin\Debug\risman_aplikasi_mahasiswa.xml
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.Form1.resources
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.Resources.resources
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.exe
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.xml
+C:\Users\Risman\Documents\Visual Studio 2022\risman_aplikasi_mahasiswa\risman_aplikasi_mahasiswa\obj\Debug\risman_aplikasi_mahasiswa.pdb
